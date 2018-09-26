@@ -1,36 +1,33 @@
 # practice1
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+This is an Intellij Idea CE and Cursive via Leiningen project. 
+Cracking the httpkit and bidi together(more soon).
+It's a template for future web crawler.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar practice1-0.1.0-standalone.jar [args]
+    To start server in nepl just type (start-server <desired port>)
+    To stop (stop-server) in nrepl
+    More TBD
 
 ## Options
 
-FIXME: listing of options this app accepts.
+    Legion
 
 ## Examples
 
-...
+    1.(start-server 8080)
+    2.open up browser-> type in localhost:8080
+    3.???
+    4.PROFIT!!!
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+To be defined
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Kirill Ivantsov
 
-Distributed under the Eclipse Public License either version 1.0 or (at
+Distributed under the Give Me Vine either version 1.0 or (at
 your option) any later version.
