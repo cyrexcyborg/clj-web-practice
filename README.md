@@ -17,7 +17,7 @@ It's a template for future web crawler.
 ## Examples
 
     1.(start-server 8080)
-    2.open up browser-> type in localhost:8080
+    2.open up browser-> type in localhost:8080/hello
     3.???
     4.PROFIT!!!
 
