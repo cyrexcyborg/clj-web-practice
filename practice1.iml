@@ -16,6 +16,7 @@
     <orderEntry type="library" name="Leiningen: bidi:2.1.4" level="project" />
     <orderEntry type="library" name="Leiningen: clj-time:0.14.3" level="project" />
     <orderEntry type="library" name="Leiningen: clojure-complete:0.2.4" level="project" />
+    <orderEntry type="library" name="Leiningen: com.jhlabs/filters:2.0.235-1" level="project" />
     <orderEntry type="library" name="Leiningen: commons-codec:1.11" level="project" />
     <orderEntry type="library" name="Leiningen: commons-fileupload:1.3.3" level="project" />
     <orderEntry type="library" name="Leiningen: commons-io:2.6" level="project" />
@@ -23,10 +24,22 @@
     <orderEntry type="library" name="Leiningen: crypto-random:1.2.0" level="project" />
     <orderEntry type="library" name="Leiningen: http-kit:2.2.0" level="project" />
     <orderEntry type="library" name="Leiningen: joda-time:2.9.9" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/clisk:0.11.0" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/clojure-utils:0.6.2" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/core.matrix:0.47.1" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/imagez:0.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/mathz:0.3.0" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/mikera-gui:0.3.1" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/randomz:0.3.0" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/vectorz-clj:0.39.0" level="project" />
+    <orderEntry type="library" name="Leiningen: net.mikera/vectorz:0.55.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.8.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.macro:0.1.5" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.12" level="project" />
+    <orderEntry type="library" name="Leiningen: org.imgscalr/imgscalr-lib:4.2" level="project" />
     <orderEntry type="library" name="Leiningen: prismatic/schema:1.1.7" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-codec:1.1.1" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-core:1.7.0" level="project" />
+    <orderEntry type="library" name="Leiningen: us.bpsm/edn-java:0.4.6" level="project" />
   </component>
 </module>

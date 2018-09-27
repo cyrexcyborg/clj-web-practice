@@ -8,6 +8,7 @@
                  [ring/ring-core "1.7.0"]
                  [http-kit "2.2.0"]
                  [bidi "2.1.4"]
+                 [net.mikera/clisk "0.11.0"]
                  ]
   :main ^:skip-aot practice1.core
   :target-path "target/%s"
